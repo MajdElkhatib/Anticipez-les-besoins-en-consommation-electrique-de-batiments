@@ -5,10 +5,10 @@ Seattle souhaite atteindre son objectif de ville neutre en émissions de carbone
 * Relevés sont coûteux à obtenir/lourd à collecter.
 * Les émissions de CO2 et la consommation totale d'énergie de certains bâtiments n'ont pas encore été mesurées.
 * L’objectif : 
- * Prédire les émissions de CO2 et la consommation totale d’énergie sans
+  * Prédire les émissions de CO2 et la consommation totale d’énergie sans
    les relevés annuels 
- * Evaluer l’intérêt de l’ENERGY STAR Score 
- * Mettre en place un modèle prédictif
+  * Evaluer l’intérêt de l’ENERGY STAR Score 
+  * Mettre en place un modèle prédictif
 
 # Les données
 Les données de consommation sont à télécharger à [cette adresse](https://www.kaggle.com/city-of-seattle/sea-building-energy-benchmarking#2015-building-energy-benchmarking.csv).
